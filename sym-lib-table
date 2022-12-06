@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "Voltage_indicator")(type "KiCad")(uri "D:/motorsport/pcb/PUTM_VOLTAGE_INDICATOR_2023/Voltage_indicator.kicad_sym")(options "")(descr ""))
+  (lib (name "lt8316efe_1")(type "KiCad")(uri "D:/motorsport/pcb/PUTM_VOLTAGE_INDICATOR_2023/lt8316efe_1.kicad_sym")(options "")(descr ""))
+)
