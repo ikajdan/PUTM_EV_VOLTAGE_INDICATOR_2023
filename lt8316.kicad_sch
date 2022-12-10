@@ -750,7 +750,6 @@
     )
   )
 
-
   (junction (at 110.49 62.23) (diameter 0) (color 0 0 0 0)
     (uuid 0229e55c-af19-4c7c-a8e5-de8d8b08abf3)
   )
@@ -2270,7 +2269,7 @@
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "https://www.mouser.pl/datasheet/2/609/LT8316-1545981.pdf" (id 3) (at 116.84 66.04 0)
-      (effects (font (size 1.524 1.524)))
+      (effects (font (size 1.524 1.524)) hide)
     )
     (pin "1" (uuid 3ab0ef00-dd06-416b-b09a-16152fbf9aed))
     (pin "10" (uuid 6393da03-13be-4714-a88e-8f9622978ef1))
