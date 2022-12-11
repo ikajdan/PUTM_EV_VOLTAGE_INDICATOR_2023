@@ -120,11 +120,7 @@
 
   (footprint "Resistor_SMD:R_0603_1608Metric" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp 0edc9969-28d7-4a66-8465-706c316bad4e)
-<<<<<<< HEAD
     (at 128.275 124.325 90)
-=======
-    (at 126.85 122.35 90)
->>>>>>> 154d5271bb351a4a9d30dde8033a1ac398fef897
     (descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Sheetfile" "PUTM_VOLTAGE_INDICATOR_2023.kicad_sch")
@@ -258,11 +254,7 @@
 
   (footprint "LED_THT:LED_D2.0mm_W4.8mm_H2.5mm_FlatTop" (layer "F.Cu")
     (tedit 5880A862) (tstamp 2e8a1f03-9d25-4512-9e16-727ffbc29089)
-<<<<<<< HEAD
     (at 127.275 108.825 180)
-=======
-    (at 126.475 108.8 180)
->>>>>>> 154d5271bb351a4a9d30dde8033a1ac398fef897
     (descr "LED, Round, FlatTop,  Rectangular size 4.8x2.5mm^2 diameter 2.0mm, 2 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-13GD(Ver.11B).pdf")
     (tags "LED Round FlatTop  Rectangular size 4.8x2.5mm^2 diameter 2.0mm 2 pins")
     (property "Sheetfile" "PUTM_VOLTAGE_INDICATOR_2023.kicad_sch")
@@ -307,11 +299,7 @@
 
   (footprint "Resistor_SMD:R_1206_3216Metric" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp 3b967101-957b-4fed-92ca-85208532ae6b)
-<<<<<<< HEAD
     (at 126.3 97.95 -90)
-=======
-    (at 126.325 99.5 -90)
->>>>>>> 154d5271bb351a4a9d30dde8033a1ac398fef897
     (descr "Resistor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Sheetfile" "PUTM_VOLTAGE_INDICATOR_2023.kicad_sch")
@@ -353,11 +341,7 @@
 
   (footprint "Capacitor_SMD:C_1206_3216Metric" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp 3f2c33ff-ab9b-42f7-b20b-0626922d336f)
-<<<<<<< HEAD
     (at 119.754 112.396 180)
-=======
-    (at 119.6 113.2 180)
->>>>>>> 154d5271bb351a4a9d30dde8033a1ac398fef897
     (descr "Capacitor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "lt8316.kicad_sch")
@@ -399,11 +383,7 @@
 
   (footprint "Inductor_SMD:L_Wuerth_WE-PD2-Typ-MS" (layer "F.Cu")
     (tedit 5D8BC861) (tstamp 47c6433c-4e97-4c17-bb78-25c5f8026486)
-<<<<<<< HEAD
     (at 114.0056 111.33 -90)
-=======
-    (at 113.8516 112.134 -90)
->>>>>>> 154d5271bb351a4a9d30dde8033a1ac398fef897
     (descr "Power Inductor, Wuerth Elektronik, WE-PD2, SMD, Typ MS, https://katalog.we-online.com/pbs/datasheet/744774022.pdf")
     (tags "Choke Power Inductor WE-PD2 TypMS Wuerth")
     (property "Sheetfile" "lt8316.kicad_sch")
@@ -445,11 +425,7 @@
 
   (footprint "Resistor_SMD:R_0603_1608Metric" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp 4bb341b7-b32f-47a5-ba77-3ac6132c3475)
-<<<<<<< HEAD
     (at 112.725 127.7 -90)
-=======
-    (at 113.025 125.6 180)
->>>>>>> 154d5271bb351a4a9d30dde8033a1ac398fef897
     (descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Sheetfile" "lt8316.kicad_sch")
@@ -491,11 +467,7 @@
 
   (footprint "Capacitor_SMD:C_1206_3216Metric" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp 4cf14ea7-22d9-40ed-9f65-a53d643b6710)
-<<<<<<< HEAD
     (at 104.075 119.2 90)
-=======
-    (at 104.1 118.95 90)
->>>>>>> 154d5271bb351a4a9d30dde8033a1ac398fef897
     (descr "Capacitor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "lt8316.kicad_sch")
@@ -537,11 +509,7 @@
 
   (footprint "Resistor_SMD:R_1206_3216Metric" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp 53b83b30-7817-43d7-baef-7da936825e86)
-<<<<<<< HEAD
     (at 113.975 97.95 90)
-=======
-    (at 114 99.5 90)
->>>>>>> 154d5271bb351a4a9d30dde8033a1ac398fef897
     (descr "Resistor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Sheetfile" "PUTM_VOLTAGE_INDICATOR_2023.kicad_sch")
@@ -697,11 +665,7 @@
 
   (footprint "Resistor_SMD:R_0603_1608Metric" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp 5c00c560-e40d-42cf-80d2-c9c21831a46d)
-<<<<<<< HEAD
     (at 114.775 127.7 90)
-=======
-    (at 115.525 126.35 90)
->>>>>>> 154d5271bb351a4a9d30dde8033a1ac398fef897
     (descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Sheetfile" "lt8316.kicad_sch")
@@ -743,11 +707,7 @@
 
   (footprint "Resistor_SMD:R_1206_3216Metric" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp 5db270de-510a-4f28-ad37-78d78ec32961)
-<<<<<<< HEAD
     (at 118.3 97.95 -90)
-=======
-    (at 118.325 99.5 -90)
->>>>>>> 154d5271bb351a4a9d30dde8033a1ac398fef897
     (descr "Resistor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Sheetfile" "PUTM_VOLTAGE_INDICATOR_2023.kicad_sch")
@@ -789,11 +749,7 @@
 
   (footprint "Resistor_SMD:R_1206_3216Metric" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp 6009a270-a722-40e5-b35c-41442d102409)
-<<<<<<< HEAD
     (at 105.3 97.875 90)
-=======
-    (at 105.325 99.425 90)
->>>>>>> 154d5271bb351a4a9d30dde8033a1ac398fef897
     (descr "Resistor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Sheetfile" "PUTM_VOLTAGE_INDICATOR_2023.kicad_sch")
@@ -880,11 +836,7 @@
 
   (footprint "Capacitor_SMD:C_1206_3216Metric" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp 87b87bb1-dc50-437b-a5e8-d25b1d4c650a)
-<<<<<<< HEAD
     (at 119.7 115.025 180)
-=======
-    (at 119.6 115.7 180)
->>>>>>> 154d5271bb351a4a9d30dde8033a1ac398fef897
     (descr "Capacitor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "lt8316.kicad_sch")
@@ -1141,11 +1093,7 @@
 
   (footprint "Resistor_SMD:R_0603_1608Metric" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp 9a5ec5a6-a96e-44af-9f15-898fab592a8a)
-<<<<<<< HEAD
     (at 129.95 124.325 -90)
-=======
-    (at 128.525 122.35 -90)
->>>>>>> 154d5271bb351a4a9d30dde8033a1ac398fef897
     (descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Sheetfile" "PUTM_VOLTAGE_INDICATOR_2023.kicad_sch")
@@ -1274,11 +1222,7 @@
 
   (footprint "Diode_SMD:D_SOD-523" (layer "F.Cu")
     (tedit 586419F0) (tstamp abbc8fcf-9a1e-4ce1-b7f4-4c401d53245d)
-<<<<<<< HEAD
     (at 106.95 118.15 -90)
-=======
-    (at 106.925 117.5 -90)
->>>>>>> 154d5271bb351a4a9d30dde8033a1ac398fef897
     (descr "http://www.diodes.com/datasheets/ap02001.pdf p.144")
     (tags "Diode SOD523")
     (property "Sheetfile" "lt8316.kicad_sch")
@@ -1327,11 +1271,7 @@
 
   (footprint "Resistor_SMD:R_0603_1608Metric" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp ac1145c4-d97f-4b37-9095-1d59b4e1ea14)
-<<<<<<< HEAD
     (at 124.325 111.325)
-=======
-    (at 124.75 111.3 180)
->>>>>>> 154d5271bb351a4a9d30dde8033a1ac398fef897
     (descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Sheetfile" "PUTM_VOLTAGE_INDICATOR_2023.kicad_sch")
@@ -1360,15 +1300,9 @@
     (fp_line (start 0.8 -0.4125) (end 0.8 0.4125) (layer "F.Fab") (width 0.1) (tstamp 6006e333-e507-4b29-a037-103a15713fc1))
     (fp_line (start -0.8 0.4125) (end -0.8 -0.4125) (layer "F.Fab") (width 0.1) (tstamp 6cc3d413-e387-47fb-b474-223e28d2f05d))
     (fp_line (start -0.8 -0.4125) (end 0.8 -0.4125) (layer "F.Fab") (width 0.1) (tstamp c0013b50-54fb-4c46-bfe7-cf5034b8ceb8))
-<<<<<<< HEAD
     (pad "1" smd roundrect (at -0.825 0) (size 0.8 0.95) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25)
       (net 8 "+12V") (pintype "passive") (tstamp da1b01f5-e5a1-4d5f-b646-7a210d98d0ed))
     (pad "2" smd roundrect (at 0.825 0) (size 0.8 0.95) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25)
-=======
-    (pad "1" smd roundrect (at -0.825 0 180) (size 0.8 0.95) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25)
-      (net 8 "+12V") (pintype "passive") (tstamp da1b01f5-e5a1-4d5f-b646-7a210d98d0ed))
-    (pad "2" smd roundrect (at 0.825 0 180) (size 0.8 0.95) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25)
->>>>>>> 154d5271bb351a4a9d30dde8033a1ac398fef897
       (net 10 "Net-(D1-Pad2)") (pintype "passive") (tstamp 4cbec5e9-e684-4487-b4c1-3bb39f043af7))
     (model "${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0603_1608Metric.wrl"
       (offset (xyz 0 0 0))
@@ -1379,11 +1313,7 @@
 
   (footprint "Package_TO_SOT_SMD:TO-252-2" (layer "F.Cu")
     (tedit 5A70A390) (tstamp ae0ad75f-10ee-4c6c-8701-4ca02b75da8f)
-<<<<<<< HEAD
     (at 105.779 109.071 90)
-=======
-    (at 105.625 109.875 90)
->>>>>>> 154d5271bb351a4a9d30dde8033a1ac398fef897
     (descr "TO-252 / DPAK SMD package, http://www.infineon.com/cms/en/product/packages/PG-TO252/PG-TO252-3-1/")
     (tags "DPAK TO-252 DPAK-3 TO-252-3 SOT-428")
     (property "Description" "MOSFET PWR MOS PD=80W  F=1MHZ")
@@ -1451,11 +1381,7 @@
 
   (footprint "Resistor_SMD:R_1206_3216Metric" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp b3a6cf47-3522-4aa5-bb5c-51f11a5b1014)
-<<<<<<< HEAD
     (at 122.3 97.925 90)
-=======
-    (at 122.325 99.475 90)
->>>>>>> 154d5271bb351a4a9d30dde8033a1ac398fef897
     (descr "Resistor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Sheetfile" "PUTM_VOLTAGE_INDICATOR_2023.kicad_sch")
@@ -1557,11 +1483,7 @@
 
   (footprint "Resistor_SMD:R_1206_3216Metric" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp b8e5c247-eb17-4fdc-b5c0-12e861a617b9)
-<<<<<<< HEAD
     (at 131.775 97.975 90)
-=======
-    (at 130.325 99.5 90)
->>>>>>> 154d5271bb351a4a9d30dde8033a1ac398fef897
     (descr "Resistor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Sheetfile" "PUTM_VOLTAGE_INDICATOR_2023.kicad_sch")
@@ -1603,11 +1525,7 @@
 
   (footprint "Capacitor_SMD:C_1206_3216Metric" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp bd3a268c-c767-4509-b69e-fbb74b8d7166)
-<<<<<<< HEAD
     (at 119.754 109.896 180)
-=======
-    (at 119.6 110.7 180)
->>>>>>> 154d5271bb351a4a9d30dde8033a1ac398fef897
     (descr "Capacitor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "lt8316.kicad_sch")
@@ -1691,11 +1609,7 @@
 
   (footprint "Diode_SMD:D_SOD-123F" (layer "F.Cu")
     (tedit 587F7769) (tstamp c4a0ac5f-6785-4b0c-a543-5c89b6a944ad)
-<<<<<<< HEAD
     (at 119.754 107.396)
-=======
-    (at 119.6 108.2)
->>>>>>> 154d5271bb351a4a9d30dde8033a1ac398fef897
     (descr "D_SOD-123F")
     (tags "D_SOD-123F")
     (property "Sheetfile" "lt8316.kicad_sch")
@@ -1745,11 +1659,7 @@
 
   (footprint "Resistor_SMD:R_1206_3216Metric" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp dd3f6d6f-1335-4158-b36a-93d3ca708b82)
-<<<<<<< HEAD
     (at 109.575 97.9 -90)
-=======
-    (at 109.6 99.45 -90)
->>>>>>> 154d5271bb351a4a9d30dde8033a1ac398fef897
     (descr "Resistor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Sheetfile" "PUTM_VOLTAGE_INDICATOR_2023.kicad_sch")
@@ -1833,11 +1743,7 @@
 
   (footprint "Resistor_SMD:R_1206_3216Metric" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp ed7da539-86b3-4c7d-9000-7c7624d8d834)
-<<<<<<< HEAD
     (at 106.6 122.125 -90)
-=======
-    (at 106.6 121.875 -90)
->>>>>>> 154d5271bb351a4a9d30dde8033a1ac398fef897
     (descr "Resistor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Sheetfile" "lt8316.kicad_sch")
@@ -1879,11 +1785,7 @@
 
   (footprint "Resistor_SMD:R_0603_1608Metric" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp f22b6e99-d53f-4e6e-ab68-a2abd500b87a)
-<<<<<<< HEAD
     (at 110.1448 113.108 -90)
-=======
-    (at 109.9908 113.912 -90)
->>>>>>> 154d5271bb351a4a9d30dde8033a1ac398fef897
     (descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Sheetfile" "lt8316.kicad_sch")
@@ -1925,11 +1827,7 @@
 
   (footprint "Capacitor_SMD:C_1812_4532Metric" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp f8aaae2e-2f58-4394-8c59-b8522d0aeabc)
-<<<<<<< HEAD
     (at 113.754 104.396)
-=======
-    (at 113.6 105.2)
->>>>>>> 154d5271bb351a4a9d30dde8033a1ac398fef897
     (descr "Capacitor SMD 1812 (4532 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "lt8316.kicad_sch")
@@ -1969,7 +1867,6 @@
     )
   )
 
-<<<<<<< HEAD
   (gr_rect (start 93 93.3) (end 134 135) (layer "Edge.Cuts") (width 0.1) (fill none) (tstamp ddb0b145-8ec9-46ab-998d-399a0e870335))
 
   (segment (start 117.425 118.55) (end 120.1 118.55) (width 0.25) (layer "F.Cu") (net 1) (tstamp 266c8246-29b6-496b-9529-d527b5df1a56))
@@ -2184,24 +2081,5 @@
   (segment (start 108.4 124.25) (end 107.2625 124.25) (width 0.25) (layer "F.Cu") (net 27) (tstamp 596e550b-2152-418c-b819-d06b5875a448))
   (segment (start 107.2625 124.25) (end 106.6 123.5875) (width 0.25) (layer "F.Cu") (net 27) (tstamp 607050a2-24f4-419c-86c2-25850b7f9bfe))
   (segment (start 109.149999 123.399998) (end 109.149999 123.500001) (width 0.25) (layer "F.Cu") (net 27) (tstamp b78b52ee-9593-4390-a29a-2581588ef197))
-=======
-  (gr_rect (start 93 96) (end 134 135) (layer "Edge.Cuts") (width 0.1) (fill none) (tstamp ddb0b145-8ec9-46ab-998d-399a0e870335))
-
-  (segment (start 115.296 110.204) (end 113.8516 110.204) (width 1) (layer "F.Cu") (net 2) (tstamp 0edf5c64-23c1-40a5-a4fe-f6ff8e20a114))
-  (segment (start 109.95 113.0462) (end 109.9908 113.087) (width 1) (layer "F.Cu") (net 2) (tstamp 0f1ac2dc-5242-432c-a567-984048d6f2eb))
-  (segment (start 117.3 108.2) (end 115.296 110.204) (width 1) (layer "F.Cu") (net 2) (tstamp 2049d67d-2ccc-48f8-99e0-592129c3a29a))
-  (segment (start 118.2 108.2) (end 117.3 108.2) (width 1) (layer "F.Cu") (net 2) (tstamp 50bd39e0-6e27-4fa4-b845-374f903d6add))
-  (segment (start 113.8516 110.204) (end 110.396 110.204) (width 1) (layer "F.Cu") (net 2) (tstamp 76a8470d-768e-4ba0-94d7-664011e6c07c))
-  (segment (start 109.95 110.65) (end 109.95 113.0462) (width 1) (layer "F.Cu") (net 2) (tstamp 8add4b0f-cf62-4c42-9b08-67f094e4c48d))
-  (segment (start 110.396 110.204) (end 109.95 110.65) (width 1) (layer "F.Cu") (net 2) (tstamp bdf140e8-4f4f-492e-a6a7-a1821974d362))
-  (segment (start 99.66 98.34) (end 97.625 98.34) (width 0.6) (layer "F.Cu") (net 5) (tstamp 47077c27-146a-406e-a83a-e467ee31c5e5))
-  (segment (start 111.55 105.2) (end 108.2 105.2) (width 1) (layer "F.Cu") (net 5) (tstamp 601b5531-afbe-4f93-a4bf-c4d808671aa7))
-  (segment (start 100.0375 97.9625) (end 99.66 98.34) (width 0.6) (layer "F.Cu") (net 5) (tstamp 82dc45c6-60cb-4112-98f7-60f1fd9f8ab7))
-  (segment (start 108.2 105.2) (end 105.625 107.775) (width 1) (layer "F.Cu") (net 5) (tstamp a6e6ebec-2086-4a39-87fc-151734e2e794))
-  (segment (start 105.325 97.9625) (end 100.0375 97.9625) (width 0.6) (layer "F.Cu") (net 5) (tstamp b513a0b7-a412-4620-8a90-165aff53a15c))
-  (segment (start 111.55 105.2) (end 111.4 105.2) (width 1) (layer "F.Cu") (net 5) (tstamp f7e7f8fb-d4d4-4a97-b8d3-919effdfd61f))
-  (segment (start 107.905 114.075) (end 108.567 114.737) (width 1) (layer "F.Cu") (net 18) (tstamp 2bba6fab-f10e-4458-9283-57e80ed229a2))
-  (segment (start 108.567 114.737) (end 109.9908 114.737) (width 1) (layer "F.Cu") (net 18) (tstamp e1aefcbf-cd9b-4830-acd3-9cddfce9faea))
->>>>>>> 154d5271bb351a4a9d30dde8033a1ac398fef897
 
 )
