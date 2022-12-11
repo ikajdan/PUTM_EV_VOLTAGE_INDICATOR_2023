@@ -1,0 +1,23 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model 01020071Z
+#/238281/1021828/2.49/2/3/Connector
+DEF 01020071Z J 0 30 Y Y 1 F N
+F0 "J" 650 300 50 H V L CNN
+F1 "01020071Z" 650 200 50 H V L CNN
+F2 "01020071Z-FUSE-CLIP" 650 100 50 H I L CNN
+F3 "http://www.littelfuse.com/~/media/electronics/datasheets/fuse_clips/littelfuse_fuse_clip_102_122_datasheet.pdf.pdf" 650 0 50 H I L CNN
+F4 "LITTELFUSE - 01020071Z - FUSE HOLDER, 6.3 x 32MM, PCB MOUNT" 650 -100 50 H I L CNN "Description"
+F5 "" 650 -200 50 H I L CNN "Height"
+F6 "576-01020071Z" 650 -300 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/Littelfuse/01020071Z?qs=hgmQaE9nnAzCBYDQcIezzw%3D%3D" 650 -400 50 H I L CNN "Mouser Price/Stock"
+F8 "LITTELFUSE" 650 -500 50 H I L CNN "Manufacturer_Name"
+F9 "01020071Z" 650 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X 1 1 0 0 200 R 50 50 0 0 P
+X 2 2 0 -100 200 R 50 50 0 0 P
+P 5 0 1 6 200 100 600 100 600 -200 200 -200 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library
