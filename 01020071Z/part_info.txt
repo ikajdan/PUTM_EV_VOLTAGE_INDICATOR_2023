@@ -1,9 +1,0 @@
-Manufacturer=LITTELFUSE
-PartNumber=01020071Z
-PartCategory=Connector
-PackageCategory=Other
-PinCount=2
-Version=1.1
-Released=2016-07-18 15:19:35
-Downloaded=2022-12-11 11:20:41
-3D=Y
