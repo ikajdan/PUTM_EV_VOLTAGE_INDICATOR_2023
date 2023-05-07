@@ -2530,7 +2530,7 @@
     (property "Datasheet" "~" (at 139.7 134.62 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 8445cdac-ed96-4250-8a4b-4c86ff8c9d74))
+    (pin "1" (uuid 7fac469b-67ef-4e8a-8bd9-87ab6fe27f7d))
     (instances
       (project "voltage_indicator"
         (path "/eef5200e-687b-4bb2-ba83-9cc915988c02/cf374e18-b903-43ca-958b-fca5770ec61b"
@@ -2555,7 +2555,7 @@
     (property "Datasheet" "~" (at 116.84 97.79 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid b7f40f87-468c-4153-b834-f7c56be5efdf))
+    (pin "1" (uuid 9d42744f-2733-4e74-91a2-6e3d8fe3f317))
     (instances
       (project "voltage_indicator"
         (path "/eef5200e-687b-4bb2-ba83-9cc915988c02/cf374e18-b903-43ca-958b-fca5770ec61b"
@@ -2568,7 +2568,7 @@
   (symbol (lib_id "Device:C_Small") (at 170.18 53.34 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 15fe946b-43db-47c7-84bd-6c81daee3eea)
-    (property "Reference" "C4" (at 172.5168 52.1716 0)
+    (property "Reference" "C5" (at 172.5168 52.1716 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "100n" (at 172.5168 54.483 0)
@@ -2580,12 +2580,12 @@
     (property "Datasheet" "~" (at 170.18 53.34 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid d914be09-5e39-41a4-acfb-02652f3a1435))
-    (pin "2" (uuid 9435fc61-0ca7-4665-83ae-5a3b1e3b39e2))
+    (pin "1" (uuid c00fc2cd-9807-42f7-9067-7806c1464836))
+    (pin "2" (uuid fdeefc05-fdfa-475e-8a65-775676c1de49))
     (instances
       (project "voltage_indicator"
         (path "/eef5200e-687b-4bb2-ba83-9cc915988c02/cf374e18-b903-43ca-958b-fca5770ec61b"
-          (reference "C4") (unit 1)
+          (reference "C5") (unit 1)
         )
       )
     )
@@ -2606,8 +2606,8 @@
     (property "Datasheet" "https://www.diodes.com/assets/Datasheets/ds16008.pdf" (at 86.36 80.01 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 4b150648-5752-4024-99d8-ffaf836af6f9))
-    (pin "2" (uuid 52ba790e-e7c1-467c-bb43-62f938527d70))
+    (pin "1" (uuid ee0a499e-e169-40dd-950a-097204367daf))
+    (pin "2" (uuid 9b8fd704-b1e8-4e8b-b933-9c75386191d5))
     (instances
       (project "voltage_indicator"
         (path "/eef5200e-687b-4bb2-ba83-9cc915988c02/cf374e18-b903-43ca-958b-fca5770ec61b"
@@ -2620,7 +2620,7 @@
   (symbol (lib_id "Device:R_Small") (at 110.49 116.84 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 2226a684-3101-4fb5-8ba8-e51185a4bee8)
-    (property "Reference" "R14" (at 111.9886 115.6716 0)
+    (property "Reference" "R15" (at 111.9886 115.6716 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "22k1" (at 111.9886 117.983 0)
@@ -2632,12 +2632,12 @@
     (property "Datasheet" "~" (at 110.49 116.84 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 61866deb-b9e5-48a5-8a22-be68220d4f4d))
-    (pin "2" (uuid 63ed722b-d6d7-4e87-a439-d03f841b3345))
+    (pin "1" (uuid 8ea41937-90e5-4254-ace4-9d7f2cc1abcb))
+    (pin "2" (uuid b70df35b-8869-4cc9-8d7a-b2426f17b0a0))
     (instances
       (project "voltage_indicator"
         (path "/eef5200e-687b-4bb2-ba83-9cc915988c02/cf374e18-b903-43ca-958b-fca5770ec61b"
-          (reference "R14") (unit 1)
+          (reference "R15") (unit 1)
         )
       )
     )
@@ -2658,7 +2658,7 @@
     (property "Datasheet" "~" (at 175.26 99.06 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid a4dcd2dd-8ab8-4c1c-9c94-486a8434fad6))
+    (pin "1" (uuid 1fb0ad07-47f9-41b2-9126-70cf0445c8cd))
     (instances
       (project "voltage_indicator"
         (path "/eef5200e-687b-4bb2-ba83-9cc915988c02/cf374e18-b903-43ca-958b-fca5770ec61b"
@@ -2671,7 +2671,7 @@
   (symbol (lib_id "power:VCC") (at 170.18 45.72 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 32e7c143-cc70-4ac4-97f7-77453f5f7f07)
-    (property "Reference" "#PWR011" (at 170.18 49.53 0)
+    (property "Reference" "#PWR015" (at 170.18 49.53 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "VCC" (at 170.18 40.64 0)
@@ -2683,11 +2683,11 @@
     (property "Datasheet" "" (at 170.18 45.72 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid d34c04a5-7bc9-40c5-a657-3f24b43dd6be))
+    (pin "1" (uuid e2e08678-e5b1-45b9-af50-0e79d8f1bbb2))
     (instances
       (project "voltage_indicator"
         (path "/eef5200e-687b-4bb2-ba83-9cc915988c02/cf374e18-b903-43ca-958b-fca5770ec61b"
-          (reference "#PWR011") (unit 1)
+          (reference "#PWR015") (unit 1)
         )
       )
     )
@@ -2708,7 +2708,7 @@
     (property "Datasheet" "~" (at 110.49 104.14 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 0a30007c-280a-4249-9528-4e6346a16593))
+    (pin "1" (uuid e5b8c30b-b6dd-4198-abbe-eec00ed6800f))
     (instances
       (project "voltage_indicator"
         (path "/eef5200e-687b-4bb2-ba83-9cc915988c02/cf374e18-b903-43ca-958b-fca5770ec61b"
@@ -2733,7 +2733,7 @@
     (property "Datasheet" "~" (at 175.26 106.68 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid a83bd43e-5207-4f4e-b368-47290d6a8194))
+    (pin "1" (uuid c3cc9b5b-1fea-40dc-8576-13b1e068df12))
     (instances
       (project "voltage_indicator"
         (path "/eef5200e-687b-4bb2-ba83-9cc915988c02/cf374e18-b903-43ca-958b-fca5770ec61b"
@@ -2758,7 +2758,7 @@
     (property "Datasheet" "~" (at 116.84 80.01 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 531a66d5-1d0c-4f9e-886e-edb52d22965a))
+    (pin "1" (uuid 54f451d1-c4b6-4cd1-a442-0ac9e75aec04))
     (instances
       (project "voltage_indicator"
         (path "/eef5200e-687b-4bb2-ba83-9cc915988c02/cf374e18-b903-43ca-958b-fca5770ec61b"
@@ -2771,7 +2771,7 @@
   (symbol (lib_id "power:GND") (at 170.18 59.69 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 558f1925-db51-40a5-9371-69be9ca78e10)
-    (property "Reference" "#PWR012" (at 170.18 66.04 0)
+    (property "Reference" "#PWR016" (at 170.18 66.04 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 170.18 64.77 0)
@@ -2783,11 +2783,11 @@
     (property "Datasheet" "" (at 170.18 59.69 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 177741ea-285c-4dba-a1fa-0127a9ec9ec6))
+    (pin "1" (uuid 28df5f55-e72c-431b-8d96-02786648b4f0))
     (instances
       (project "voltage_indicator"
         (path "/eef5200e-687b-4bb2-ba83-9cc915988c02/cf374e18-b903-43ca-958b-fca5770ec61b"
-          (reference "#PWR012") (unit 1)
+          (reference "#PWR016") (unit 1)
         )
       )
     )
@@ -2808,23 +2808,23 @@
     (property "Datasheet" "https://www.mouser.pl/datasheet/2/609/LT8316-1545981.pdf" (at 113.03 83.82 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (pin "1" (uuid 3ab0ef00-dd06-416b-b09a-16152fbf9aed))
-    (pin "10" (uuid 6393da03-13be-4714-a88e-8f9622978ef1))
-    (pin "11" (uuid 82c19deb-60cf-4db1-9be7-84e5e66e6ec8))
-    (pin "12" (uuid 0a1708c3-3ca1-4d6f-82ef-f522503c23e5))
-    (pin "13" (uuid efbe72c2-9d85-44f8-87ab-63a8cef205aa))
-    (pin "14" (uuid 7b820c87-cdfe-4abb-8f20-136f7ffb5b8b))
-    (pin "15" (uuid b41ee9ef-b978-4208-ae7a-603903cac3bc))
-    (pin "16" (uuid 9f93e35a-8fb2-4206-8773-b0ae0307572b))
-    (pin "17" (uuid 80e859ea-a61e-4b96-b94e-5bd1eeb4c2f5))
-    (pin "18" (uuid 09b37d5d-9ca5-419f-b7fb-89ffdac88273))
-    (pin "19" (uuid 244c5cc6-2cad-4d1b-8d5e-3cf2f1274dcc))
-    (pin "2" (uuid d2497a47-ba2f-4c07-a4f2-82e942639102))
-    (pin "20" (uuid d040fc20-a45b-4b96-aa0f-ec61d66d6c47))
-    (pin "3" (uuid e1f2ab3e-adbd-4c98-b822-1ed1dcbb3d0f))
-    (pin "8" (uuid 76706c1d-672c-491b-8c66-b4fe7a7467d4))
-    (pin "9" (uuid a0885196-8532-4bc6-897b-4ecb2850556e))
-    (pin "EPAD" (uuid ef610585-c29d-41d1-aca7-78b24c102922))
+    (pin "1" (uuid 8a654204-a378-487f-ac68-ab0dfa84bd41))
+    (pin "10" (uuid 42c96e1e-645a-4ae4-a3f8-ef23841a5ae2))
+    (pin "11" (uuid 474c56fe-9324-4d1c-a673-1de29dee9ec1))
+    (pin "12" (uuid 41f0cb56-9d59-4c9d-96b1-d7824cb571da))
+    (pin "13" (uuid 24a764fe-47ba-447f-a7a6-3336bf1516d1))
+    (pin "14" (uuid e0f8070a-3647-464c-ba76-11a744ee534f))
+    (pin "15" (uuid e5df1abb-3a86-43b1-9601-6ad9d9641b9f))
+    (pin "16" (uuid 8cbfc035-9eba-4ed1-bdca-ccf15da04055))
+    (pin "17" (uuid c31a6b4e-71f4-4d03-91cc-fd02974f423e))
+    (pin "18" (uuid c7b67918-b116-42b2-b22e-bdd8cffa28d3))
+    (pin "19" (uuid 53c4306b-18cf-414b-912b-b5282fdd1474))
+    (pin "2" (uuid 690db097-d238-49c9-9089-a997a0a40cfe))
+    (pin "20" (uuid bf7f0621-f783-49de-b1aa-8416c4ec79c1))
+    (pin "3" (uuid b79d2e28-5bb3-4cf4-b39b-00398cb6b787))
+    (pin "8" (uuid 373c2858-cc17-4a1a-a412-7015b2299a32))
+    (pin "9" (uuid 91fd29eb-ebcc-4fbd-85dd-07cc336923db))
+    (pin "EPAD" (uuid e8f2b9fc-b7c6-4eb4-9bb9-f6887522dafc))
     (instances
       (project "voltage_indicator"
         (path "/eef5200e-687b-4bb2-ba83-9cc915988c02/cf374e18-b903-43ca-958b-fca5770ec61b"
@@ -2849,8 +2849,8 @@
     (property "Datasheet" "https://www.mouser.pl/datasheet/2/916/BZX58550_SER-2580634.pdf" (at 193.04 87.63 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid ac115f6b-f007-4094-8350-35c39900d7c6))
-    (pin "2" (uuid 9dae831c-602f-4700-97ce-48e4633b89fb))
+    (pin "1" (uuid 51a9b841-4947-490f-9040-0e11ca2e3f38))
+    (pin "2" (uuid da5d5956-77ba-4470-8d47-9703f0994b73))
     (instances
       (project "voltage_indicator"
         (path "/eef5200e-687b-4bb2-ba83-9cc915988c02/cf374e18-b903-43ca-958b-fca5770ec61b"
@@ -2875,8 +2875,8 @@
     (property "Datasheet" "https://www.diodes.com/assets/Datasheets/ds16008.pdf" (at 201.93 140.97 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid c638e332-b08a-4010-9d8b-91f8a0ed19dc))
-    (pin "2" (uuid fbf8aa3a-9a46-4826-baf3-c0382a078877))
+    (pin "1" (uuid 9a8f39a5-734c-4945-911e-7fafbe3fa8e2))
+    (pin "2" (uuid f56146fd-d790-4322-a0a0-017bd17c4d19))
     (instances
       (project "voltage_indicator"
         (path "/eef5200e-687b-4bb2-ba83-9cc915988c02/cf374e18-b903-43ca-958b-fca5770ec61b"
@@ -2901,7 +2901,7 @@
     (property "Datasheet" "~" (at 227.33 133.35 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 8bf2e775-686e-4b30-b367-bf8aac8f8648))
+    (pin "1" (uuid 22d68008-3e4d-4d37-a6f9-8d627e2c0d1c))
     (instances
       (project "voltage_indicator"
         (path "/eef5200e-687b-4bb2-ba83-9cc915988c02/cf374e18-b903-43ca-958b-fca5770ec61b"
@@ -2926,7 +2926,7 @@
     (property "Datasheet" "~" (at 133.35 135.89 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid e187b97e-1f81-408d-a47f-cf5ba3df6710))
+    (pin "1" (uuid b9dbba16-e3af-4375-b17c-5ee0b377ebb9))
     (instances
       (project "voltage_indicator"
         (path "/eef5200e-687b-4bb2-ba83-9cc915988c02/cf374e18-b903-43ca-958b-fca5770ec61b"
@@ -2939,7 +2939,7 @@
   (symbol (lib_id "Device:R_Small") (at 181.61 78.74 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 70ef1f66-4d18-49c7-b47c-99730bb299b1)
-    (property "Reference" "R15" (at 182.88 73.66 90)
+    (property "Reference" "R16" (at 182.88 73.66 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "10k" (at 182.88 76.2 90)
@@ -2951,12 +2951,12 @@
     (property "Datasheet" "~" (at 181.61 78.74 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 4b593828-93dc-4c59-ad3b-7f8bfc80fb9c))
-    (pin "2" (uuid 510adc1c-2a11-476a-828e-999ab0d2b565))
+    (pin "1" (uuid a1dff9a7-8174-40d8-a26e-c70e15d08aa1))
+    (pin "2" (uuid f912d5c1-8a3c-49d5-ac1e-c101d8487327))
     (instances
       (project "voltage_indicator"
         (path "/eef5200e-687b-4bb2-ba83-9cc915988c02/cf374e18-b903-43ca-958b-fca5770ec61b"
-          (reference "R15") (unit 1)
+          (reference "R16") (unit 1)
         )
       )
     )
@@ -2965,7 +2965,7 @@
   (symbol (lib_id "Device:Q_NMOS_GDS") (at 199.39 99.06 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 73dbf70f-d2f8-4ca2-ba9a-9208716f8f2d)
-    (property "Reference" "Q1" (at 204.47 97.79 0)
+    (property "Reference" "Q2" (at 204.47 97.79 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "TK3P80ERQ" (at 204.47 100.33 0)
@@ -2995,13 +2995,13 @@
     (property "Manufacturer_Part_Number" "TK3P80E,RQ" (at 210.82 118.11 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
-    (pin "1" (uuid 2239d36d-fe11-426d-90fb-e5e9577190a3))
-    (pin "2" (uuid 7ae6414e-5e9c-465c-9b89-4df71317c630))
-    (pin "3" (uuid e8d22194-1cf4-41e2-8cb8-61ea1c140fec))
+    (pin "1" (uuid 757339ab-b496-4757-a857-e369b511224a))
+    (pin "2" (uuid 02555374-1c1b-468b-8f62-c4e0a0a54996))
+    (pin "3" (uuid 7a379659-c860-44d2-b598-ff70f521e2ba))
     (instances
       (project "voltage_indicator"
         (path "/eef5200e-687b-4bb2-ba83-9cc915988c02/cf374e18-b903-43ca-958b-fca5770ec61b"
-          (reference "Q1") (unit 1)
+          (reference "Q2") (unit 1)
         )
       )
     )
@@ -3010,7 +3010,7 @@
   (symbol (lib_id "Device:C_Small") (at 193.04 78.74 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 760eb5c2-8bf1-4e81-8f11-6a7160e76625)
-    (property "Reference" "C5" (at 193.04 72.39 90)
+    (property "Reference" "C6" (at 193.04 72.39 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "10p" (at 194.31 74.93 90)
@@ -3022,12 +3022,12 @@
     (property "Datasheet" "~" (at 193.04 78.74 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 00d6061d-0ebc-46f0-b773-1167b9913bbe))
-    (pin "2" (uuid 053b4366-8316-46e7-a00c-d19577d41298))
+    (pin "1" (uuid e361405f-8ee2-4220-a31f-82a87643c1c4))
+    (pin "2" (uuid c893d011-3d88-4571-904f-a0874f1438ac))
     (instances
       (project "voltage_indicator"
         (path "/eef5200e-687b-4bb2-ba83-9cc915988c02/cf374e18-b903-43ca-958b-fca5770ec61b"
-          (reference "C5") (unit 1)
+          (reference "C6") (unit 1)
         )
       )
     )
@@ -3036,7 +3036,7 @@
   (symbol (lib_id "Device:C_Small") (at 245.11 142.24 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 7946c279-c284-42ea-b5ee-a3752045ddcd)
-    (property "Reference" "C7" (at 250.19 140.97 0)
+    (property "Reference" "C8" (at 250.19 140.97 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "47u" (at 251.46 143.51 0)
@@ -3048,12 +3048,12 @@
     (property "Datasheet" "~" (at 245.11 142.24 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid d69004d8-acb2-496d-9f65-6378ba34b972))
-    (pin "2" (uuid fd19e0d6-5a9e-40f0-8545-c094c59c9dac))
+    (pin "1" (uuid c6bc88ec-16c0-4814-b008-93e9de5d4b8b))
+    (pin "2" (uuid 997af1e8-c3f2-4a84-8e4c-5a12f849abba))
     (instances
       (project "voltage_indicator"
         (path "/eef5200e-687b-4bb2-ba83-9cc915988c02/cf374e18-b903-43ca-958b-fca5770ec61b"
-          (reference "C7") (unit 1)
+          (reference "C8") (unit 1)
         )
       )
     )
@@ -3062,7 +3062,7 @@
   (symbol (lib_id "Device:C_Small") (at 144.78 125.73 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 884dcd37-bed9-4ac1-9c6e-7ec072026b75)
-    (property "Reference" "C3" (at 147.1168 124.5616 0)
+    (property "Reference" "C4" (at 147.1168 124.5616 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "100n" (at 147.1168 126.873 0)
@@ -3074,12 +3074,12 @@
     (property "Datasheet" "~" (at 144.78 125.73 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 4bc662a2-b371-45f5-a88a-e843201e357d))
-    (pin "2" (uuid 5a6129a0-7662-4376-a24f-b12d73907f22))
+    (pin "1" (uuid 5941e03e-00f3-48f5-ac90-de77ee9cc282))
+    (pin "2" (uuid 19a02f28-d0e9-4669-80f9-c229b05645e4))
     (instances
       (project "voltage_indicator"
         (path "/eef5200e-687b-4bb2-ba83-9cc915988c02/cf374e18-b903-43ca-958b-fca5770ec61b"
-          (reference "C3") (unit 1)
+          (reference "C4") (unit 1)
         )
       )
     )
@@ -3100,8 +3100,8 @@
     (property "Datasheet" "https://www.diodes.com/assets/Datasheets/ds16008.pdf" (at 68.58 80.01 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 9f77f920-4e69-4837-bdd5-9f19a60bcf90))
-    (pin "2" (uuid b49e8a16-7ed9-47cf-8bd3-e9b39b908d62))
+    (pin "1" (uuid 92ca5507-2626-46dc-a3be-a94a5e397e6c))
+    (pin "2" (uuid cf5b5478-7eeb-42ba-8cf7-1fcb69b98a1b))
     (instances
       (project "voltage_indicator"
         (path "/eef5200e-687b-4bb2-ba83-9cc915988c02/cf374e18-b903-43ca-958b-fca5770ec61b"
@@ -3126,7 +3126,7 @@
     (property "Datasheet" "~" (at 175.26 87.63 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid da1ef084-1350-4bb9-857d-16832a2a55b8))
+    (pin "1" (uuid 3977c8c9-72b1-4b69-8377-93408ebbf5e7))
     (instances
       (project "voltage_indicator"
         (path "/eef5200e-687b-4bb2-ba83-9cc915988c02/cf374e18-b903-43ca-958b-fca5770ec61b"
@@ -3139,7 +3139,7 @@
   (symbol (lib_id "Device:C_Small") (at 236.22 142.24 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid a3d139dd-75d0-488a-be09-c5df4bcce344)
-    (property "Reference" "C6" (at 241.3 140.97 0)
+    (property "Reference" "C7" (at 241.3 140.97 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "47u" (at 242.57 143.51 0)
@@ -3151,12 +3151,12 @@
     (property "Datasheet" "~" (at 236.22 142.24 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 9b2e5269-5e6f-4b4b-9a4d-b3993f480ed6))
-    (pin "2" (uuid 77231bee-99a2-4e43-8da2-7e9379263001))
+    (pin "1" (uuid 3704e62f-bf4c-4132-97ce-35b1bc557135))
+    (pin "2" (uuid 1be26ef1-2d63-4328-9967-b69999926254))
     (instances
       (project "voltage_indicator"
         (path "/eef5200e-687b-4bb2-ba83-9cc915988c02/cf374e18-b903-43ca-958b-fca5770ec61b"
-          (reference "C6") (unit 1)
+          (reference "C7") (unit 1)
         )
       )
     )
@@ -3165,7 +3165,7 @@
   (symbol (lib_id "Device:C_Polarized_Small") (at 264.16 142.24 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp yes) (fields_autoplaced)
     (uuid b3811b45-d815-4e6d-b3dc-c13cbd76348a)
-    (property "Reference" "C9" (at 266.7 141.0589 0)
+    (property "Reference" "C10" (at 266.7 141.0589 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "DNP" (at 266.7 143.5989 0)
@@ -3177,12 +3177,12 @@
     (property "Datasheet" "~" (at 264.16 142.24 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid ef4a847d-adb7-42b2-83d7-cd19443df59c))
-    (pin "2" (uuid d7b3f179-f043-4393-8f56-c9d7ce0c486b))
+    (pin "1" (uuid 210188b8-4933-4f8f-8325-b0f3ecef788a))
+    (pin "2" (uuid 6e8b1016-bb31-4370-aad2-3100b2c4b326))
     (instances
       (project "voltage_indicator"
         (path "/eef5200e-687b-4bb2-ba83-9cc915988c02/cf374e18-b903-43ca-958b-fca5770ec61b"
-          (reference "C9") (unit 1)
+          (reference "C10") (unit 1)
         )
       )
     )
@@ -3191,7 +3191,7 @@
   (symbol (lib_id "Device:R_Small") (at 201.93 120.65 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid b4abdb91-7434-45ac-9333-01317cb73707)
-    (property "Reference" "R16" (at 203.4286 119.4816 0)
+    (property "Reference" "R17" (at 203.4286 119.4816 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "220m" (at 203.4286 121.793 0)
@@ -3203,12 +3203,12 @@
     (property "Datasheet" "~" (at 201.93 120.65 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 3fea4ef0-605b-4536-b8c4-6a0d5f668989))
-    (pin "2" (uuid d4ab2747-4545-40e9-af72-2191fd2a640f))
+    (pin "1" (uuid 54b4a5b1-3d4c-4361-96d4-d36e34e72a6b))
+    (pin "2" (uuid aaf8d586-7b96-4f71-b5f2-8d0ff7026923))
     (instances
       (project "voltage_indicator"
         (path "/eef5200e-687b-4bb2-ba83-9cc915988c02/cf374e18-b903-43ca-958b-fca5770ec61b"
-          (reference "R16") (unit 1)
+          (reference "R17") (unit 1)
         )
       )
     )
@@ -3217,7 +3217,7 @@
   (symbol (lib_id "Device:R_Small") (at 77.47 106.68 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid bcdf763b-efc1-4542-97b4-7f2c3a8334db)
-    (property "Reference" "R13" (at 78.9686 105.5116 0)
+    (property "Reference" "R14" (at 78.9686 105.5116 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "2k49" (at 78.9686 107.823 0)
@@ -3229,12 +3229,12 @@
     (property "Datasheet" "~" (at 77.47 106.68 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid fa8b94ab-ba53-4e15-b494-505e5f5768a7))
-    (pin "2" (uuid d76153e7-0769-4eab-a7ea-7603fdc4d715))
+    (pin "1" (uuid 6d541fd1-2c16-4535-875c-39f8109b8f27))
+    (pin "2" (uuid 9d4e4cbb-5d10-46f4-b22d-a1dd0325d4ff))
     (instances
       (project "voltage_indicator"
         (path "/eef5200e-687b-4bb2-ba83-9cc915988c02/cf374e18-b903-43ca-958b-fca5770ec61b"
-          (reference "R13") (unit 1)
+          (reference "R14") (unit 1)
         )
       )
     )
@@ -3255,7 +3255,7 @@
     (property "Datasheet" "~" (at 175.26 78.74 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid fd55b7ba-fd54-48ed-9f8a-253393e17da1))
+    (pin "1" (uuid 08727dc1-2293-4e8a-af28-d073285f2718))
     (instances
       (project "voltage_indicator"
         (path "/eef5200e-687b-4bb2-ba83-9cc915988c02/cf374e18-b903-43ca-958b-fca5770ec61b"
@@ -3268,7 +3268,7 @@
   (symbol (lib_id "power:GND") (at 201.93 146.05 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid c72ad2c8-75bd-4a1b-9496-8153431a76dd)
-    (property "Reference" "#PWR013" (at 201.93 152.4 0)
+    (property "Reference" "#PWR017" (at 201.93 152.4 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 201.93 151.13 0)
@@ -3280,11 +3280,11 @@
     (property "Datasheet" "" (at 201.93 146.05 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 15523a43-6463-4f58-af40-1d2629eb6520))
+    (pin "1" (uuid 93b79820-1bae-4c5f-8974-5b9834db5429))
     (instances
       (project "voltage_indicator"
         (path "/eef5200e-687b-4bb2-ba83-9cc915988c02/cf374e18-b903-43ca-958b-fca5770ec61b"
-          (reference "#PWR013") (unit 1)
+          (reference "#PWR017") (unit 1)
         )
       )
     )
@@ -3305,7 +3305,7 @@
     (property "Datasheet" "~" (at 243.84 134.62 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 7fe09d37-dabe-414a-9502-02297dd66bd0))
+    (pin "1" (uuid edd44b70-8395-4efb-84b5-cbc54f710ec2))
     (instances
       (project "voltage_indicator"
         (path "/eef5200e-687b-4bb2-ba83-9cc915988c02/cf374e18-b903-43ca-958b-fca5770ec61b"
@@ -3318,7 +3318,7 @@
   (symbol (lib_id "Device:R_Small") (at 77.47 88.9 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid d80cb3fd-1290-4f8e-b2a4-522c17bf78c3)
-    (property "Reference" "R12" (at 78.9686 87.7316 0)
+    (property "Reference" "R13" (at 78.9686 87.7316 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "21k5" (at 78.9686 90.043 0)
@@ -3330,12 +3330,12 @@
     (property "Datasheet" "~" (at 77.47 88.9 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 1f1607ac-b7c8-4294-b136-d4399fa17eb2))
-    (pin "2" (uuid b590fc34-6121-474e-bf2a-9a060aecc9cf))
+    (pin "1" (uuid 295ebd08-0e8b-43f3-a756-16818a1e4495))
+    (pin "2" (uuid 4c64bd2c-88fb-4e01-bb86-83e75be58f32))
     (instances
       (project "voltage_indicator"
         (path "/eef5200e-687b-4bb2-ba83-9cc915988c02/cf374e18-b903-43ca-958b-fca5770ec61b"
-          (reference "R12") (unit 1)
+          (reference "R13") (unit 1)
         )
       )
     )
@@ -3344,7 +3344,7 @@
   (symbol (lib_id "Device:C_Small") (at 255.27 142.24 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid d825fc62-12de-4556-98f9-42f34d974a4b)
-    (property "Reference" "C8" (at 260.35 140.97 0)
+    (property "Reference" "C9" (at 260.35 140.97 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "47u" (at 261.62 143.51 0)
@@ -3356,12 +3356,12 @@
     (property "Datasheet" "~" (at 255.27 142.24 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid f340316c-efae-49bc-9257-148d024ca0a5))
-    (pin "2" (uuid a1311177-15ac-42ca-8fba-54b98b821229))
+    (pin "1" (uuid 114335c1-b857-403a-9f23-40eeca706313))
+    (pin "2" (uuid 50636b33-db98-45c5-8f72-0c805b75f08a))
     (instances
       (project "voltage_indicator"
         (path "/eef5200e-687b-4bb2-ba83-9cc915988c02/cf374e18-b903-43ca-958b-fca5770ec61b"
-          (reference "C8") (unit 1)
+          (reference "C9") (unit 1)
         )
       )
     )
@@ -3370,7 +3370,7 @@
   (symbol (lib_id "power:+12V") (at 250.19 133.35 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid da160142-c612-4422-94a3-4e8fb6914fe8)
-    (property "Reference" "#PWR014" (at 250.19 137.16 0)
+    (property "Reference" "#PWR018" (at 250.19 137.16 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+12V" (at 250.19 128.27 0)
@@ -3382,11 +3382,11 @@
     (property "Datasheet" "" (at 250.19 133.35 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid e1682f6d-2279-443f-88ff-28bcd4d54a94))
+    (pin "1" (uuid c871677c-f7d9-461a-82b1-7c28a4aba45b))
     (instances
       (project "voltage_indicator"
         (path "/eef5200e-687b-4bb2-ba83-9cc915988c02/cf374e18-b903-43ca-958b-fca5770ec61b"
-          (reference "#PWR014") (unit 1)
+          (reference "#PWR018") (unit 1)
         )
       )
     )
@@ -3407,8 +3407,8 @@
     (property "Datasheet" "https://www.mouser.pl/datasheet/2/445/7687714102-1724367.pdf" (at 214.63 134.62 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid a5b66508-e4e7-4a2a-bd9b-432d5c6c9505))
-    (pin "2" (uuid fc204090-1dc8-4b08-a59d-e33e24bb1c2c))
+    (pin "1" (uuid fec218ff-80b2-41f2-9d82-8764bbb9bcb1))
+    (pin "2" (uuid 040d61ac-d5a9-407e-940e-50d61ad3d0b3))
     (instances
       (project "voltage_indicator"
         (path "/eef5200e-687b-4bb2-ba83-9cc915988c02/cf374e18-b903-43ca-958b-fca5770ec61b"
@@ -3421,7 +3421,7 @@
   (symbol (lib_id "power:GND") (at 250.19 148.59 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid e4996a15-9c7b-44e3-b2f2-01f8284846b2)
-    (property "Reference" "#PWR015" (at 250.19 154.94 0)
+    (property "Reference" "#PWR019" (at 250.19 154.94 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 250.19 153.67 0)
@@ -3433,11 +3433,11 @@
     (property "Datasheet" "" (at 250.19 148.59 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 0a17d4f5-0a32-4f0a-ba1f-5a421d1da798))
+    (pin "1" (uuid 9d52fde8-f1e1-4cb7-a504-34b81b9ac8ca))
     (instances
       (project "voltage_indicator"
         (path "/eef5200e-687b-4bb2-ba83-9cc915988c02/cf374e18-b903-43ca-958b-fca5770ec61b"
-          (reference "#PWR015") (unit 1)
+          (reference "#PWR019") (unit 1)
         )
       )
     )
@@ -3458,7 +3458,7 @@
     (property "Datasheet" "~" (at 181.61 86.36 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 1f969426-9f8c-4b70-a09d-b1534c223aa5))
+    (pin "1" (uuid 95d069f5-2b61-4122-a6d6-9843c045aedf))
     (instances
       (project "voltage_indicator"
         (path "/eef5200e-687b-4bb2-ba83-9cc915988c02/cf374e18-b903-43ca-958b-fca5770ec61b"
@@ -3471,7 +3471,7 @@
   (symbol (lib_id "Device:C_Small") (at 93.98 88.9 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid ea1e749a-4309-4b9d-9af2-1b3f072ea195)
-    (property "Reference" "C1" (at 96.3168 87.7316 0)
+    (property "Reference" "C2" (at 96.3168 87.7316 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "10u" (at 96.3168 90.043 0)
@@ -3483,12 +3483,12 @@
     (property "Datasheet" "~" (at 93.98 88.9 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 2087c047-7673-4c7d-b8f6-785b2646cd86))
-    (pin "2" (uuid 42fae137-b038-4936-8ec6-81004a48a559))
+    (pin "1" (uuid 15f2693e-7ed0-4ef4-a444-ee3f17dfb21d))
+    (pin "2" (uuid 26090712-5c46-476b-9f93-c66ffc7143f8))
     (instances
       (project "voltage_indicator"
         (path "/eef5200e-687b-4bb2-ba83-9cc915988c02/cf374e18-b903-43ca-958b-fca5770ec61b"
-          (reference "C1") (unit 1)
+          (reference "C2") (unit 1)
         )
       )
     )
@@ -3497,7 +3497,7 @@
   (symbol (lib_id "Device:C_Small") (at 110.49 125.73 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid ed7c1af7-f90c-43bc-ba10-b99e17724abe)
-    (property "Reference" "C2" (at 112.8268 124.5616 0)
+    (property "Reference" "C3" (at 112.8268 124.5616 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "100n" (at 112.8268 126.873 0)
@@ -3509,12 +3509,12 @@
     (property "Datasheet" "~" (at 110.49 125.73 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid d03fc88d-d4b5-4bf1-8c96-505141990760))
-    (pin "2" (uuid 0fb1204d-2253-4836-9b30-da0ae67ebbc6))
+    (pin "1" (uuid c14233be-f52f-49d1-8291-1fbf53606da3))
+    (pin "2" (uuid 56ca8c5c-f5ae-454f-a68e-a882b3540264))
     (instances
       (project "voltage_indicator"
         (path "/eef5200e-687b-4bb2-ba83-9cc915988c02/cf374e18-b903-43ca-958b-fca5770ec61b"
-          (reference "C2") (unit 1)
+          (reference "C3") (unit 1)
         )
       )
     )
@@ -3535,7 +3535,7 @@
     (property "Datasheet" "~" (at 82.55 80.01 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 2a95594c-219e-49a9-9b7c-210addce4f21))
+    (pin "1" (uuid 56957554-530a-49cf-bdfe-6b316e6d8c2a))
     (instances
       (project "voltage_indicator"
         (path "/eef5200e-687b-4bb2-ba83-9cc915988c02/cf374e18-b903-43ca-958b-fca5770ec61b"
